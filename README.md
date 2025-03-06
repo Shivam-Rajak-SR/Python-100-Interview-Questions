@@ -1,2 +1,2 @@
-# Python--00-Interview-Questions
+# Python-100-Interview-Questions
 This is for best practice 
